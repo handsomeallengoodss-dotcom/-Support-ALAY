@@ -1,0 +1,10 @@
+
+.env
+.env.*
+!.env.example
+
+moderation_config.json
+__pycache__/
+*.pyc
+.venv/
+venv/

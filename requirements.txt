@@ -1,0 +1,6 @@
+
+discord.py
+Flask
+Flask-SocketIO
+python-dotenv
+simple-websocket
